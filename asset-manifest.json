@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bavari-live/static/css/main.e0407268.css",
-    "main.js": "/bavari-live/static/js/main.ec1a2434.js",
+    "main.css": "/bavari-live/static/css/main.64d6ea11.css",
+    "main.js": "/bavari-live/static/js/main.18b3122d.js",
     "index.html": "/bavari-live/index.html",
-    "main.e0407268.css.map": "/bavari-live/static/css/main.e0407268.css.map",
-    "main.ec1a2434.js.map": "/bavari-live/static/js/main.ec1a2434.js.map"
+    "main.64d6ea11.css.map": "/bavari-live/static/css/main.64d6ea11.css.map",
+    "main.18b3122d.js.map": "/bavari-live/static/js/main.18b3122d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0407268.css",
-    "static/js/main.ec1a2434.js"
+    "static/css/main.64d6ea11.css",
+    "static/js/main.18b3122d.js"
   ]
 }
